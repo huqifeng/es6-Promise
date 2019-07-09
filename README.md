@@ -118,3 +118,5 @@ Promise.all([p1,p2,p3]).than(res=>{
 		console.log(failCallbacks)
 	})
 ```
+asdas
+asdasd
